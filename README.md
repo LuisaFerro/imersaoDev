@@ -6,7 +6,9 @@ Conversor de Moedas = https://luisaferro.github.io/imersaoDev/conversorDeMoedas/
 
 Jogo: Trunfo Paladins = https://luisaferro.github.io/imersaoDev/jogo/jogo-index.html
 
-Livro: Indicações = https://luisaferro.github.io/imersaoDev/livros/livros-index.html
+Livros: Indicações = https://luisaferro.github.io/imersaoDev/livros/livros-index.html
+
+Média UNB = https://luisaferro.github.io/imersaoDev/media/media-index.html
 
 Mentalista: Qual a personagem? = https://luisaferro.github.io/imersaoDev/mentalista/mentalista-index.html 
 (solta som, mas ainda estou tendo probleminhas técnicos de fazer funcionar por aq pelo github 😅)
