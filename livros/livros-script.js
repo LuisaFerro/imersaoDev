@@ -8,7 +8,6 @@ var maquinaTempo = 'https://m.media-amazon.com/images/I/61WF0WybSJL.jpg'
 var garotaTrem = 'https://images-na.ssl-images-amazon.com/images/I/A1ajQ9OHOIL.jpg'
 var americanah = 'https://images-na.ssl-images-amazon.com/images/I/81dTCBAi0VL.jpg'
 
-
  // Essas funções "checado" checam se as caixinnhas estão marcadas e, se estiverem, colocam os livros acima dentro do Array livrosIndicados. Cada caixinha tem um número, 1 a 5 de cima para baixo.
 
  // O Else da função checado1() tem o objetivo de, caso a pessoa desmarque a caixinha, o livro que tinha sido colocaddo no array ser, então, retirado. O comando é "livrosIndicados.splice(livrosIndicados.indexOf(hp), 1)", pelo q pesquisei, o splice vai tirar um elemento específico do array. Maas, para garantir que vai ser o que eu quero, o inddexOf vai procurar dentro do array o "hp" e tirá-lo
@@ -57,7 +56,6 @@ function escolhi(){
     }else {
   alert('Tu não checaste nenhuma caixinha, não sei o que te indicar :/ ')
 }}
-
 
 function capasDosLivros(ImgDaCapa){
   var capaLivros = document.querySelector('.capaLivros')
