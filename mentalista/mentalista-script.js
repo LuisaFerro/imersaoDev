@@ -31,5 +31,4 @@ function limparTela(){
   escreverNaTela.innerHTML = ""
   limparTela.innerHTML = ""
   
-  
 }
