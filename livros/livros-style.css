@@ -1,0 +1,63 @@
+body{
+  background-image: url('https://wallpapercave.com/wp/wp2151431.jpg');
+  background-position: center top;
+  text-align: center;
+}
+
+.tituloDaPag{
+  color: #ffffff;
+  font-size: 35px;
+  font-family: 'Special Elite', cursive;
+  font-weight: lighter;
+  
+}
+.centrao{
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Special Elite', cursive;
+  font-weight: lighter;
+}
+
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  margin-bottom: 25px;
+}
+
+
+.alura-logo {
+  width: 150px;
+  width: 15%;
+  position: absolute;
+  bottom: 20px;
+  right:10px;
+}
+
+.botao{
+  background-color: black;
+  color: #ffffff;
+  font-family: 'Special Elite', cursive;
+  font-weight: lighter;
+}
+
+.nomeLivros{
+  text-align: center;
+  padding: 20px;
+  color: #ffffff;
+  font-family: 'Special Elite', cursive;
+  font-weight: lighter;
+  
+}
+
+.botaoLimpar{
+  background-color: black;
+  color: #ffffff;
+  font-family: 'Special Elite', cursive;
+  font-weight: lighter;
+  
+}
