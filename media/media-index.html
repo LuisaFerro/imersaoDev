@@ -1,0 +1,26 @@
+<html>
+  <link href = "https://luisaferro.github.io/imersaoDev/media/media-style.css" rel = "stylesheet"/>
+  <script src = "https://luisaferro.github.io/imersaoDev/media/media-script.js"></script>
+  <body>
+    <img src= 'https://comotrabalhar.org/wp-content/uploads/2016/02/trabalhar-na-UnB.png'>
+     <a href="https://www.cebraspe.org.br/vestibulares/UNB_21_1_ACESSOENEM" target="_blank" >Link -Inscrição acesso Enem -  cebraspe </a>
+      <h2>Insira sua nota em: </h2>
+      <input type="number" class= "porNumero" id="Linguagens"  placeholder="Linguagens" onchange = 'return notaLing()'>
+      <input type="number" class= "porNumero" id="Humanas"  placeholder="Humanas " onchange = 'return notaHum()'>
+     <input type="number" class= "porNumero" id="Natureza" placeholder="Natureza" onchange = 'return notaNat()'>
+     <input type="number" class= "porNumero" id="Matematica"  placeholder="Matemática" onchange = 'return notaMat()'>
+     <input type="number" class= "porNumero" id="Redacao" placeholder="Redação" onchange = 'return notaRed()'>
+    <div><br>
+      <h2>Insira o grupo do curso que queres: </h2>
+        <input type='button' class= 'botao' value='Grupo 1' id='escolhaG1' onclick = "return escolhaG1()">
+       <input type='button' class= 'botao' value=' Grupo 2'  id='escolhaG2'onclick = "return escolhaG2()"> 
+      <input type = 'button' class = 'botao' value='Limpar' id = 'limpar' onclick = 'return limpar()'>
+    </div>
+    <h1 class='h1'>Sua Média é </h1>
+    <h1 class = "nota"></h1>
+    </body>
+</html>
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
