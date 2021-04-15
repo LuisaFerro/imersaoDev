@@ -203,4 +203,5 @@ function proximaRodada(){
   var divResultado = document.getElementById("resultado")
   divResultado.innerHTML = ""
   
+   
 }
