@@ -4,8 +4,9 @@ Os projetos foram realizados durante uma semana imersiva realizada pela Alura, f
 
 Conversor de Moedas = https://luisaferro.github.io/imersaoDev/conversorDeMoedas/conversor-index.html
 
-Indicação de livros = https://luisaferro.github.io/imersaoDev/livros/livros-index.html
-
 Jogo: Trunfo Paladins = https://luisaferro.github.io/imersaoDev/jogo/jogo-index.html
 
-Mentalista = https://luisaferro.github.io/imersaoDev/mentalista/mentalista-index.html (solta som, mas ainda estou tendo probleminhas técnicos de fazer funcionar por aq pelo github 😅)
+Livro: Indicações = https://luisaferro.github.io/imersaoDev/livros/livros-index.html
+
+Mentalista: Qual a personagem? = https://luisaferro.github.io/imersaoDev/mentalista/mentalista-index.html 
+(solta som, mas ainda estou tendo probleminhas técnicos de fazer funcionar por aq pelo github 😅)
