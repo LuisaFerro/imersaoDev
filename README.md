@@ -11,7 +11,7 @@ Os projetos foram realizados durante uma semana imersiva realizada pela Alura, f
 
 04 Jogo: Trunfo Paladins = https://luisaferro.github.io/imersaoDev/jogo/jogo-index.html
 
-05 Certificard = 
+05 Certificard = https://luisaferro.github.io/imersaoDev/certificard/certificard-index.html
 
 06 (extra) Média UNB = https://luisaferro.github.io/imersaoDev/media/media-index.html
 
