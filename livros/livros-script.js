@@ -2,7 +2,7 @@ alert('Bem vinde! Ainda em processo de melhora 😅')
 livrosIndicados = []
 
 
-var hp = 'https://pedagogica.com.br/wp-content/uploads/Harry-Potter.jpg'
+var hp = 'https://images-na.ssl-images-amazon.com/images/I/41897yAI4LL._SY344_BO1,204,203,200_QL70_ML2_.jpg'
 var harryAugust = 'https://1.bp.blogspot.com/-uqfwzD8ZBCA/X6LaPTUr-CI/AAAAAAAAHx4/4JRqyP-bQ3MISmd_sonjdi-mSzRSQIKuwCLcBGAsYHQ/s1000/15VidasPoison.jpg'
 var maquinaTempo = 'https://m.media-amazon.com/images/I/61WF0WybSJL.jpg'
 var garotaTrem = 'https://images-na.ssl-images-amazon.com/images/I/A1ajQ9OHOIL.jpg'
